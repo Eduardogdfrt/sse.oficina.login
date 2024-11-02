@@ -1,4 +1,4 @@
-package org.logico.aplication;
+package org.logico.Aplication;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
